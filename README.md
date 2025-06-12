@@ -32,9 +32,6 @@ A fully responsive and modern landing page designed with HTML, CSS, and JavaScri
 This project was created as part of an internship at **Prodigy InfoTech**.  
 **Task-1**: Build a responsive multi-page landing website with interactive features using only HTML, CSS, and JavaScript.
 
-## 📸 Screenshots
-
-> Add screenshots of your homepage, features page, contact section, etc.
 
 ## 🛠️ Tech Stack
 
