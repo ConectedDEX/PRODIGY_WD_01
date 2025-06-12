@@ -45,3 +45,8 @@ This project was created as part of an internship at **Prodigy InfoTech**.
 1. Clone this repository:
    ```bash
    git clone https://github.com/ConectedDEX/your-repo-name.git
+
+## 📄 License
+
+This project is open-source and free to use for any purpose.
+
